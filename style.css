@@ -77,6 +77,11 @@ text-transform: uppercase;
 font-size: 14px;
 }
 
+#contact{
+  background: gray;
+  padding:10px;
+}
+
 section{
   
   text-align: center;
@@ -114,6 +119,11 @@ list-style: none;
   .demopadding {
     margin:20px auto;
     width:140px;
+    text-align:center;
+  }
+  .padding {
+    margin:20px auto;
+    width:240px;
     text-align:center;
   }
   .icon {
@@ -169,6 +179,12 @@ list-style: none;
     left:11px;
   }
   .icon.social.in i {
+    left:11px;
+  }
+  .icon.social.ln i {
+    left:11px;
+  }
+  .icon.social.insta i {
     left:11px;
   }
   /* timeline  */
