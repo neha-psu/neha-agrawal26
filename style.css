@@ -5,13 +5,13 @@
   background-color:white;
 }
 /* ROtate the images from portrait to landscape in My_Art_gallery section */
-  #rotate270{
+  .rotate270{
     transform: rotate(270deg)!important;
     padding-left: 75px;
     padding-right: 75px;
   }
 
-  #project_desc{
+  .project_desc{
     padding:20px;
   }
 
